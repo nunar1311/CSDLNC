@@ -1,0 +1,2 @@
+customer_id,year,month,order_count,prev_month_orders,prev_prev_month_orders
+STD_172100280,2024,12,36827,36970,38084
